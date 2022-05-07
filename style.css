@@ -2,7 +2,7 @@ body {
     font-family: Calibri, "Segoe UI", Arial, sans-serif;
 }
 
-hi {
+h1 {
     text-align: center;
 }
 
@@ -10,4 +10,8 @@ hi {
     margin: 0 auto;
     width: 800px;
     text-align: center;
+}
+
+.clickable {
+	cursor: hand;
 }

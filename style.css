@@ -6,8 +6,8 @@ hi {
     text-align: center;
 }
 
-.content {
-    margin: 0 auto;
-    width: 800px;
-    text-align: center;
+.content .container {
+	Margin: o auto;
+	width: 8000px;
+	text-align: center;
 }

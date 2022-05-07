@@ -2,12 +2,16 @@ body {
     font-family: Calibri, "Segoe UI", Arial, sans-serif;
 }
 
-hi {
+h1 {
     text-align: center;
 }
 
-.content .container {
+.container {
 	Margin: o auto;
 	width: 8000px;
 	text-align: center;
+}
+
+.clickable {
+	cursor: hand;
 }
